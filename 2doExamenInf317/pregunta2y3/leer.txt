@@ -1,0 +1,2 @@
+El programa se encuentra comprimido 
+se adjunta la base de datos AdventureWorksLT ya en su forma dimensionada

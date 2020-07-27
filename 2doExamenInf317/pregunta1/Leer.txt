@@ -1,0 +1,2 @@
+Se adunta las capturas de pantalla y el script de la base de datos y un archivo comprimido
+del procesoETL para la migracion de datos a sql server
